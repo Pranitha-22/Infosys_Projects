@@ -75,7 +75,7 @@ git clone https://github.com/your-username/infosys-deep-learning-projects.git
 cd infosys-deep-learning-projects
 Open the notebook using Google Colab or Jupyter.
 
-Run the cells in infosys_projects.ipynb.
+Run the cells in Infosys_Projects.ipynb.
 
 You can also open the notebook directly in Colab
 
